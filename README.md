@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Muhammad Abdillah Aziz</h1>
+<h1 align="left">Hi, I'm Muhammad Abdillah Aziz 👋</h1>
 
 I'm a Web Developer passionate about building modern, responsive, and user-friendly web applications. I enjoy turning ideas into real products using modern technologies while continuously learning new tools and best practices.
 
@@ -26,15 +26,8 @@ Currently, I'm focusing on **React.js**, **JavaScript**, **Node.js**, and **Pyth
 - MySQL
 - Firebase
 
-### Tools
-- Git
-- GitHub
-- VS Code
-- Postman
-- Figma
-
 ## 📫 Connect with Me
 
 - 💼 Linktree: https://linktr.ee/abdillahaziz182
 
-⭐ *"Building clean, scalable, and impactful web experiences."*
+*"Building clean, scalable, and impactful web experiences."*
